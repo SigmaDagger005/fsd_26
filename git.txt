@@ -11,3 +11,13 @@ git config --global user.email "you@example.com"
 
 to set your account's default identity.
 Omit --global to set the identity only in this repository.
+
+----git repeats-----
+git add .
+git commit -m "message"
+git push
+
+------GitHub Pages---------
+any static website can be deployed by gitHub pages
+repository>setting>pages>deploy from branch> select branch and save
+wait 2 minutes then refresh
